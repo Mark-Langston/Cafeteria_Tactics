@@ -1,0 +1,21 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+
+# Plugins - AI/MCP tooling (not required for development)
+Plugins/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
